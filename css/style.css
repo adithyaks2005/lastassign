@@ -1,0 +1,35 @@
+.box{
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: inset;
+    margin-left: 10%;
+    margin-right: 50%;
+    margin-top: 3%;
+    padding: 10px;
+}
+
+
+
+.id4{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+
+
+.id6{
+    background-image: url();
+    background-repeat: calc(1450px);
+}
+.id3{
+    margin-left: 35%;
+    margin-top: 15%;
+    border: 2px solid black;
+    margin-right: 30%;
+    padding-left: 10%;
+     
+}
+.id{
+    background-image: url("https://www.shutterstock.com/image-illustration/lmaty-kazakhstan-oktober-29-2019-toyota-1546057157");
+    
+}
